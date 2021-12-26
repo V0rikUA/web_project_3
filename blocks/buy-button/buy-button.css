@@ -1,0 +1,23 @@
+.buy-button {
+  margin: 0 auto auto 3px;
+  padding: 13px 20px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  background: #0278fe;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.buy-button:hover {
+  background: #0063d2;
+}
+
+@media screen and (max-width: 320px) {
+  .buy-button {
+    padding: 13px 40px;
+  }
+}

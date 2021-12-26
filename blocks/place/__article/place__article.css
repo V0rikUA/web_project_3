@@ -1,0 +1,6 @@
+.place__article {
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+  grid-area: article;
+}
