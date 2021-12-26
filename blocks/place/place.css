@@ -1,0 +1,13 @@
+.place {
+  margin: 92px 148px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: min-content min-content 1fr;
+  row-gap: 48px;
+  column-gap: 40px;
+  grid-template-areas:
+    "title website"
+    "image article"
+    "button article";
+  justify-items: start;
+}
