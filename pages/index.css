@@ -11,6 +11,7 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/buy-button/buy-button.css);
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
 
 /*                     LEAD block                            */
 @import url(../blocks/header/__logo/header__logo.css);
@@ -51,3 +52,6 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__info-block/cover__info-block.css);
+
+/*                     FOOTER block                            */
+@import url(../blocks/footer/__copyright/footer__copyright.css);
