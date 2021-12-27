@@ -1,0 +1,11 @@
+.cover {
+  position: relative;
+  object-fit: none;
+  margin: 92px 42px;
+  max-width: 1184px;
+  max-height: 740px;
+}
+
+.cover:hover .cover__background {
+  opacity: 0.2;
+}
