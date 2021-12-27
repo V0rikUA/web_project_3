@@ -10,6 +10,7 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/buy-button/buy-button.css);
+@import url(../blocks/cover/cover.css);
 
 /*                     LEAD block                            */
 @import url(../blocks/header/__logo/header__logo.css);
@@ -41,3 +42,12 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/*                     BUY-BUTTON block*/
+@import url(../blocks/buy-button/buy-button_cover.css);
+
+/*                     COVER block                            */
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__info-block/cover__info-block.css);
