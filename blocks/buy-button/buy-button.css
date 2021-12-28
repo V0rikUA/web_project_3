@@ -19,5 +19,6 @@
 @media screen and (max-width: 320px) {
   .buy-button {
     padding: 13px 40px;
+    margin: 0 auto;
   }
 }
