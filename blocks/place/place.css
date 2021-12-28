@@ -1,5 +1,6 @@
 .place {
-  margin: 92px 148px;
+  margin: 92px auto;
+  max-width: 978px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: min-content min-content 1fr;
@@ -9,5 +10,20 @@
     "title website"
     "image article"
     "button article";
-  justify-items: start;
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    margin: 88px auto;
+    max-width: 720px;
+    column-gap: 28px;
+  }
+
+  @media screen and (max-width: 320px) {
+    .place {
+      display: flex;
+      flex-direction: column;
+      margin: 62px auto;
+    }
+  }
 }
