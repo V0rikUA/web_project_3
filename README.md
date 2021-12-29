@@ -8,9 +8,9 @@ The project incorproates technologies allowing for responsive web page building 
 
 ---
 
-HTML5
-CSS3
-FIGMA
+- HTML5
+- CSS3
+- FIGMA
 
 ### Made by
 
