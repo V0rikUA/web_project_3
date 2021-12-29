@@ -1,4 +1,20 @@
 .cover__background {
   max-width: 100%;
+  min-height: 740px;
+  object-fit: cover;
   transition: 0.5s ease;
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 768px) {
+  .cover__background {
+    min-height: 746px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__background {
+    min-height: 254px;
+    object-fit: contain;
+  }
 }
