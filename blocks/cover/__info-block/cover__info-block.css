@@ -9,3 +9,9 @@
   row-gap: 32px;
   z-index: 1;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__info-block {
+    row-gap: 16px;
+  }
+}
