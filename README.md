@@ -14,4 +14,4 @@ The project incorproates technologies allowing for responsive web page building 
 
 ### Made by
 
-Dmitriy Kirov
+<h3>Dmitriy Kirov</h3>
