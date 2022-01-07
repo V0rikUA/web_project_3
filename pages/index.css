@@ -13,6 +13,7 @@
 @import url(../blocks/buy-button/buy-button.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/photo-grid/photo-grid.css);
 
 /*                     LEAD block                            */
 @import url(../blocks/header/__logo/header__logo.css);

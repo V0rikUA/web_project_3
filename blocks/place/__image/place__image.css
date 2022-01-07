@@ -6,13 +6,13 @@
   grid-area: image;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .place__image {
     width: 340px;
     height: 340px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 583px) {
   .place__image {
     width: 320px;
   }

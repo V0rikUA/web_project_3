@@ -11,14 +11,14 @@
   align-self: flex-end;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .place__title {
     font-size: 42px;
     line-height: 46px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 583px) {
   .place__title {
     margin-left: 16px;
     font-size: 32px;

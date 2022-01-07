@@ -12,14 +12,14 @@
     "button article";
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .place {
     margin: 0 auto;
     max-width: 720px;
     column-gap: 28px;
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 583px) {
     .place {
       display: flex;
       flex-direction: column;

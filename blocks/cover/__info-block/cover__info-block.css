@@ -10,7 +10,7 @@
   z-index: 1;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 583px) {
   .cover__info-block {
     row-gap: 16px;
   }

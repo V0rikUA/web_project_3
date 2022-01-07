@@ -8,7 +8,7 @@
   line-height: 142%;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 583px) {
   .intro__quote {
     line-height: 30px;
   }

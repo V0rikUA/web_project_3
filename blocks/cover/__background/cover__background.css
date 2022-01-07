@@ -6,13 +6,13 @@
   opacity: 0.7;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 930px) {
   .cover__background {
     min-height: 746px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 583px) {
   .cover__background {
     min-height: 254px;
     object-fit: contain;
