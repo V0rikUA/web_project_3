@@ -16,3 +16,10 @@
     margin: 88px 24px 90px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .intro {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
