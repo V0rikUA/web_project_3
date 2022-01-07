@@ -1,5 +1,5 @@
 .place {
-  margin: 92px auto;
+  margin: 0 auto;
   max-width: 978px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    margin: 88px auto;
+    margin: 0 auto;
     max-width: 720px;
     column-gap: 28px;
   }
@@ -24,7 +24,7 @@
       display: flex;
       flex-direction: column;
       align-items: flex-start;
-      margin: 62px auto;
+      margin: 0 auto;
     }
   }
 }
