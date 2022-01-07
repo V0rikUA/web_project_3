@@ -23,6 +23,7 @@
     .place {
       display: flex;
       flex-direction: column;
+      align-items: flex-start;
       margin: 62px auto;
     }
   }
