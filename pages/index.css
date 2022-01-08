@@ -3,7 +3,7 @@
 @import url(../vendors/normalize.css);
 
 /*                    blocks                                 */
-@import url(../blocks/content/contetn.css);
+@import url(../blocks/content/content.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/lead/lead.css);
@@ -45,14 +45,13 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
-/*                     BUY-BUTTON block*/
-@import url(../blocks/buy-button/buy-button_cover.css);
-
 /*                     COVER block                            */
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
-@import url(../blocks/cover/__background/cover__background.css);
+/* @import url(../blocks/cover/__background/cover__background.css); */
 @import url(../blocks/cover/__info-block/cover__info-block.css);
+@import url(../blocks/cover/__buy-button/cover__buy-button.css);
+@import url(../blocks/cover/__addres-block/cover__addres-block.css);
 
 /*                     FOOTER block                            */
 @import url(../blocks/footer/__copyright/footer__copyright.css);
