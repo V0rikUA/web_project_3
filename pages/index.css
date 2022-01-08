@@ -48,8 +48,6 @@
 /*                     COVER block                            */
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
-/* @import url(../blocks/cover/__background/cover__background.css); */
-@import url(../blocks/cover/__info-block/cover__info-block.css);
 @import url(../blocks/cover/__buy-button/cover__buy-button.css);
 @import url(../blocks/cover/__addres-block/cover__addres-block.css);
 
