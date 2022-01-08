@@ -16,4 +16,4 @@ The project incorproates technologies allowing for responsive web page building 
 
 <h4>Dmitriy Kirov</h4>
 
-Project Link: [https://github.com/V0rikUA/web_project_3] (Practicum Art Gallery project)
+Project Link: [Practicum Art Gallery project] (https://github.com/V0rikUA/web_project_3)
