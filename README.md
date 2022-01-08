@@ -15,3 +15,5 @@ The project incorproates technologies allowing for responsive web page building 
 ### Made by
 
 <h4>Dmitriy Kirov</h4>
+
+Project Link: [https://github.com/V0rikUA/web_project_3](https://github.com/V0rikUA/web_project_3)
