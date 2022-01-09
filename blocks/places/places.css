@@ -6,7 +6,6 @@
 @media screen and (max-width: 930px) {
   .places {
     margin-top: 88px;
-    margin-bottom: 92px;
     row-gap: 72px;
   }
 }
